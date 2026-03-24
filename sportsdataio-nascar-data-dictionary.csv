@@ -1,0 +1,238 @@
+TableID,TableName,Name,DataType,Size,Nullable,Description,IsInCSV,Scrambled
+8001000,Series,SeriesID,integer,32,False,The unique ID of this series,True,False
+8001000,Series,Name,string,50,False,The name of this series,True,False
+8002000,Race,RaceID,integer,32,False,The unique ID of this race,True,False
+8002000,Race,SeriesID,integer,32,False,The unique ID of the series that this race is associated with,True,False
+8002000,Race,SeriesName,string,50,False,The name of the series that this race is associated with,True,False
+8002000,Race,Season,integer,32,False,The season that this race is associated with,True,False
+8002000,Race,Name,string,100,False,The name of this race,True,False
+8002000,Race,Day,date,,False,The day of this race,True,False
+8002000,Race,DateTime,datetime,,True,The date/time of this race,True,False
+8002000,Race,Track,string,100,True,The name of the track for this race,True,False
+8002000,Race,Broadcast,string,50,True,The broadcast airing this race,False,False
+8002000,Race,WinnerID,integer,32,True,The unique ID of the driver who won this race,True,False
+8002000,Race,PoleWinnerID,integer,32,True,The unique ID of the driver who won the qualifying pole,True,False
+8002000,Race,IsInProgress,boolean,,False,Indicates whether this race is currently in progress,False,False
+8002000,Race,IsOver,boolean,,False,Indicates whether this race is over,True,False
+8002000,Race,Updated,datetime,,True,The date/time when this race was last updated,True,False
+8002000,Race,Created,datetime,,True,The date/time when this race was created (in US Eastern Time),False,False
+8002000,Race,RescheduledDay,date,,False,The day that this is race is rescheduled for (if race was postponed),True,False
+8002000,Race,RescheduledDateTime,datetime,,True,The date/time that this is race is rescheduled for (if race was postponed),True,False
+8002000,Race,Canceled,boolean,,False,Indicates whether this race has been canceled,True,False
+8002000,Race,ScheduledLaps,integer,32,True,Number of laps scheduled for this race,True,
+8002000,Race,ActualLaps,integer,32,True,Total number of laps ran for this race,False,
+8019000,Tracks,Track,string,100,True,The name of the track for this race,True,False
+8025000,FantasyRace,DriverID,integer,32,False,The unique ID of this driver (assigned by SportsDataIO),True,False
+8025000,FantasyRace,Season,integer,32,False,The season that this race is associated with,True,False
+8025000,FantasyRace,Day,date,,True,The day of this race,True,False
+8025000,FantasyRace,DateTime,datetime,,True,The date/time of this race,True,False
+8025000,FantasyRace,Name,string,100,True,The name of this race,True,False
+8025000,FantasyRace,FantasyPoints,decimal,32,True,The fantasy points scored by this driver,True,False
+8025000,FantasyRace,FantasyPointsDraftKings,decimal,32,True,The fantasy points scored by this driver; according to the DraftKings scoring system,True,False
+8025000,FantasyRace,Updated,datetime,,False,The date/time when this race was last updated,True,False
+8023000,RaceBasic,RaceID,integer,32,False,The unique ID of this race,True,False
+8023000,RaceBasic,Day,date,,False,The day of this race,True,False
+8023000,RaceBasic,DateTime,datetime,,True,The date/time of this race,True,False
+8023000,RaceBasic,Updated,datetime,,True,The date/time when this race was last updated,True,False
+8023000,RaceBasic,Created,datetime,,True,The date/time when this race was created (in US Eastern Time),False,False
+8003000,Driver,DriverID,integer,32,False,The unique ID of this driver (assigned by SportsDataIO),True,False
+8003000,Driver,FirstName,string,50,False,The driver's first name,True,False
+8003000,Driver,LastName,string,50,False,The driver's last name,True,False
+8003000,Driver,Number,integer,32,True,The driver's car number,True,False
+8003000,Driver,NumberDisplay,string,10,True,The driver's car number for display purposes (with leading zeros when necessary),True,False
+8003000,Driver,Team,string,100,True,The driver's team name,True,False
+8003000,Driver,BirthDate,date,,True,The driver's birthdate,False,False
+8003000,Driver,BirthPlace,string,100,True,The driver's birthplace,False,False
+8003000,Driver,Gender,string,10,True,The driver's gender,True,False
+8003000,Driver,Height,integer,32,True,The driver's height,True,False
+8003000,Driver,Weight,integer,32,True,The driver's weight,True,False
+8003000,Driver,Manufacturer,string,50,True,The manufacturer of the driver's car,True,False
+8003000,Driver,Engine,string,50,True,The engine type of the driver's car,True,False
+8003000,Driver,Chassis,string,50,True,The chassis of the driver's car,True,False
+8003000,Driver,Sponsors,string,100,True,The names of the sponsor(s) of the driver,True,False
+8003000,Driver,CrewChief,string,50,True,The name of the crew chief for the driver,True,False
+8003000,Driver,PhotoUrl,string,250,True,This field is deprecated. Photos are no longer available through it. Headshots are now delivered through IMAGN. Please see our Headshots products for further information.,True,False
+8003000,Driver,Updated,datetime,,True,The date/time when this driver was last updated,True,False
+8003000,Driver,Created,datetime,,True,The date/time when this driver was created (in US Eastern Time),False,False
+8021000,DriverBasic,DriverID,integer,32,False,The unique ID of this driver (assigned by SportsDataIO),True,False
+8021000,DriverBasic,FirstName,string,50,False,The driver's first name,True,False
+8021000,DriverBasic,LastName,string,50,False,The driver's last name,True,False
+8021000,DriverBasic,Number,integer,32,True,The driver's car number,True,False
+8021000,DriverBasic,NumberDisplay,string,10,True,The driver's car number for display purposes (with leading zeros when necessary),True,False
+8021000,DriverBasic,Team,string,100,True,The driver's team name,True,False
+8021000,DriverBasic,BirthDate,date,,True,The driver's birthdate,False,False
+8021000,DriverBasic,BirthPlace,string,100,True,The driver's birthplace,False,False
+8021000,DriverBasic,Gender,string,10,True,The driver's gender,True,False
+8021000,DriverBasic,Height,integer,32,True,The driver's height,True,False
+8021000,DriverBasic,Weight,integer,32,True,The driver's weight,True,False
+8021000,DriverBasic,Manufacturer,string,50,True,The manufacturer of the driver's car,True,False
+8021000,DriverBasic,Engine,string,50,True,The engine type of the driver's car,True,False
+8021000,DriverBasic,Chassis,string,50,True,The chassis of the driver's car,True,False
+8021000,DriverBasic,Sponsors,string,100,True,The names of the sponsor(s) of the driver,True,False
+8021000,DriverBasic,CrewChief,string,50,True,The name of the crew chief for the driver,True,False
+8021000,DriverBasic,Updated,datetime,,True,The date/time when this driver was last updated,True,False
+8021000,DriverBasic,Created,datetime,,True,The date/time when this driver was created (in US Eastern Time),False,False
+8024000,StatBasic,StartPosition,decimal,32,True,The driver's starting position for the race (typically the same as the PoleFinalPosition),True,True
+8024000,StatBasic,FinalPosition,decimal,32,True,The driver's final position for the race,True,True
+8024000,StatBasic,PositionDifferential,decimal,32,True,The driver's differential between their final position and their starting position,False,True
+8024000,StatBasic,Laps,decimal,32,True,The total number of laps completed by the driver,True,True
+8024000,StatBasic,LapsLed,decimal,32,True,The total number of laps that this driver completed while in first place,False,True
+8024000,StatBasic,Points,decimal,32,True,The total points scored by this driver,False,True
+8024000,StatBasic,Wins,decimal,32,True,Indicates whether this driver won the race,True,True
+8024000,StatBasic,Poles,decimal,32,True,Indicates whether this driver won the qualifying race (pole),True,True
+8024000,StatBasic,CurrentPosition,decimal,32,True,Driver's current position in the race; updated live,False,True
+8006000,DriverRace,StatID,integer,32,False,The unique ID of this stat record,True,False
+8006000,DriverRace,DriverID,integer,32,False,The unique ID of this driver,True,False
+8006000,DriverRace,Season,integer,32,False,The season that this race is associated with,True,False
+8006000,DriverRace,Name,string,50,True,The driver's full name,False,False
+8006000,DriverRace,Number,integer,32,True,The driver's car number,True,False
+8006000,DriverRace,NumberDisplay,string,10,True,The driver's car number for display purposes (with leading zeros when necessary),True,False
+8006000,DriverRace,Manufacturer,string,50,True,The manufacturer of the driver's car,True,False
+8006000,DriverRace,DraftKingsSalary,integer,32,True,The DraftKings salary of the driver for this race,True,True
+8006000,DriverRace,RaceID,integer,32,True,The unique ID of this race,True,False
+8006000,DriverRace,Day,date,,False,The day of this race,True,False
+8006000,DriverRace,DateTime,datetime,,True,The date/time of this race,True,False
+8006000,DriverRace,Updated,datetime,,True,The date/time when this record was last updated,True,False
+8006000,DriverRace,Created,datetime,,True,The date/time when this record was created,True,False
+8006000,DriverRace,FantasyPoints,decimal,32,True,The fantasy points scored by this driver,True,True
+8006000,DriverRace,FantasyPointsDraftKings,decimal,32,True,The fantasy points scored by this driver; according to the DraftKings scoring system,True,True
+8006000,DriverRace,QualifyingSpeed,decimal,32,True,The speed of this driver's car during the qualifying race,True,True
+8006000,DriverRace,PoleFinalPosition,decimal,32,True,The final position this driver finished in the qualifying race (pole),True,True
+8006000,DriverRace,StartPosition,decimal,32,True,The driver's starting position for the race (typically the same as the PoleFinalPosition),True,True
+8006000,DriverRace,FinalPosition,decimal,32,True,The driver's final position for the race,True,True
+8006000,DriverRace,PositionDifferential,decimal,32,True,The driver's differential between the final position and the starting position,True,True
+8006000,DriverRace,Laps,decimal,32,True,The total number of laps completed by the driver,True,True
+8006000,DriverRace,LapsLed,decimal,32,True,The total number of laps that this driver finished in first place,True,True
+8006000,DriverRace,FastestLaps,decimal,32,True,The total number of laps that this driver finished fastest,True,True
+8006000,DriverRace,Points,decimal,32,True,The total points scored by this driver,True,True
+8006000,DriverRace,Bonus,decimal,32,True,The total bonus points scored by this driver,True,True
+8006000,DriverRace,Penalty,decimal,32,True,The total penalty points applied to this driver,True,True
+8006000,DriverRace,Wins,decimal,32,True,Indicates whether this driver won the race,True,True
+8006000,DriverRace,Poles,decimal,32,True,Indicates whether this driver won the qualifying race (pole),True,True
+8006000,DriverRace,CurrentPosition,decimal,32,True,Driver's current position in the race; updated live.,True,True
+8020000,DriverRaceBasic,StatID,integer,32,False,The unique ID of this stat record,True,False
+8020000,DriverRaceBasic,DriverID,integer,32,False,The unique ID of this driver,True,False
+8020000,DriverRaceBasic,Season,integer,32,False,The season that this race is associated with,True,False
+8020000,DriverRaceBasic,Name,string,50,True,The driver's full name,False,True
+8020000,DriverRaceBasic,Number,integer,32,True,The driver's car number,True,True
+8020000,DriverRaceBasic,NumberDisplay,string,10,True,The driver's car number for display purposes (with leading zeros when necessary),True,True
+8020000,DriverRaceBasic,Manufacturer,string,50,True,The manufacturer of the driver's car,True,True
+8020000,DriverRaceBasic,StartPosition,decimal,32,True,The driver's starting position for the race (typically the same as the PoleFinalPosition),True,True
+8020000,DriverRaceBasic,FinalPosition,decimal,32,True,The driver's final position for the race,True,True
+8020000,DriverRaceBasic,PositionDifferential,decimal,32,True,The driver's differential between their final position and their starting position,False,True
+8020000,DriverRaceBasic,Laps,decimal,32,True,The total number of laps completed by the driver,True,True
+8020000,DriverRaceBasic,LapsLed,decimal,32,True,The total number of laps that this driver completed while in first place,False,True
+8020000,DriverRaceBasic,Points,decimal,32,True,The total points scored by this driver,True,True
+8020000,DriverRaceBasic,Wins,decimal,32,True,Indicates whether this driver won the race,True,True
+8020000,DriverRaceBasic,Poles,decimal,32,True,Indicates whether this driver won the qualifying race (pole),True,True
+8020000,DriverRaceBasic,CurrentPosition,decimal,32,True,Driver's current position in the race; updated live,False,True
+8007000,DriverRaceProjection,StatID,integer,32,False,The unique ID of this stat record,True,False
+8007000,DriverRaceProjection,DriverID,integer,32,False,The unique ID of this driver,True,False
+8007000,DriverRaceProjection,Season,integer,32,False,The season that this race is associated with,True,False
+8007000,DriverRaceProjection,Name,string,50,True,The driver's full name,False,False
+8007000,DriverRaceProjection,Number,integer,32,True,The driver's car number,True,False
+8007000,DriverRaceProjection,NumberDisplay,string,10,True,The driver's car number for display purposes (with leading zeros when necessary),True,False
+8007000,DriverRaceProjection,Manufacturer,string,50,True,The manufacturer of the driver's car,True,False
+8007000,DriverRaceProjection,DraftKingsSalary,integer,32,True,The DraftKings salary of the driver for this race,True,True
+8007000,DriverRaceProjection,RaceID,integer,32,True,The unique ID of this race,True,False
+8007000,DriverRaceProjection,Day,date,,False,The day of this race,True,False
+8007000,DriverRaceProjection,DateTime,datetime,,True,The date/time of this race,True,False
+8007000,DriverRaceProjection,Updated,datetime,,True,The date/time when this record was last updated,True,False
+8007000,DriverRaceProjection,Created,datetime,,True,The date/time when this record was created,True,False
+8007000,DriverRaceProjection,FantasyPoints,decimal,32,True,The fantasy points scored by this driver,True,True
+8007000,DriverRaceProjection,FantasyPointsDraftKings,decimal,32,True,The fantasy points scored by this driver; according to the DraftKings scoring system,True,True
+8007000,DriverRaceProjection,QualifyingSpeed,decimal,32,True,The speed of this driver's car during the qualifying race,True,True
+8007000,DriverRaceProjection,PoleFinalPosition,decimal,32,True,The final position this driver finished in the qualifying race (pole),True,True
+8007000,DriverRaceProjection,StartPosition,decimal,32,True,The driver's starting position for the race (typically the same as the PoleFinalPosition),True,True
+8007000,DriverRaceProjection,FinalPosition,decimal,32,True,The driver's final position for the race,True,True
+8007000,DriverRaceProjection,PositionDifferential,decimal,32,True,The driver's differential between the final position and the starting position,True,True
+8007000,DriverRaceProjection,Laps,decimal,32,True,The total number of laps completed by the driver,True,True
+8007000,DriverRaceProjection,LapsLed,decimal,32,True,The total number of laps that this driver finished in first place,True,True
+8007000,DriverRaceProjection,FastestLaps,decimal,32,True,The total number of laps that this driver finished fastest,True,True
+8007000,DriverRaceProjection,Points,decimal,32,True,The total points scored by this driver,True,True
+8007000,DriverRaceProjection,Bonus,decimal,32,True,The total bonus points scored by this driver,True,True
+8007000,DriverRaceProjection,Penalty,decimal,32,True,The total penalty points applied to this driver,True,True
+8007000,DriverRaceProjection,Wins,decimal,32,True,Indicates whether this driver won the race,True,True
+8007000,DriverRaceProjection,Poles,decimal,32,True,Indicates whether this driver won the qualifying race (pole),True,True
+8007000,DriverRaceProjection,CurrentPosition,decimal,32,True,Driver's current position in the race; updated live.,True,True
+8010000,RaceResult,Race,Race,,True,The details of the race including general information about the race itself (Ex: Name; DateTime; Track; WinnerID; IsInProgress; Scheduled Laps; etc.),False,False
+8010000,RaceResult,DriverRaces,DriverRace[],,True,The details of the drivers in this race,False,False
+8011000,RaceOdds,RaceID,integer,32,False,The unique ID of this race,True,False
+8011000,RaceOdds,SeriesID,integer,32,False,The unique ID of the series that this race is associated with,True,False
+8011000,RaceOdds,SeriesName,string,50,False,The name of the series that this race is associated with,True,False
+8011000,RaceOdds,Season,integer,5,False,The season that this race is associated with,True,False
+8011000,RaceOdds,Name,string,50,True,The name of this race,True,False
+8011000,RaceOdds,Day,datetime,,True,The day of this race,True,False
+8011000,RaceOdds,DateTime,datetime,,True,The date/time of this race,True,False
+8011000,RaceOdds,Track,string,50,True,The name of the track for this race,True,False
+8011000,RaceOdds,IsInProgress,bool,,True,Indicates whether this race is currently in progress,True,False
+8011000,RaceOdds,IsOver,bool,,True,Indicates whether this race is over,True,False
+8011000,RaceOdds,PreGameOdds,DriverRaceOdd[],,True,List of the odds leading up to the start of the race,True,False
+8012000,DriverRaceOdd,DriverRaceOddID,integer,32,False,The unique ID of the DriverRaceOdd record,False,False
+8012000,DriverRaceOdd,SportsbookID,integer,32,True,The ID of the Sportsbook associated with this record,False,False
+8012000,DriverRaceOdd,SportsbookName,string,50,True,The name of the Sportbook,False,True
+8012000,DriverRaceOdd,DriverName,string,50,True,The driver's full name,False,False
+8012000,DriverRaceOdd,DriverID,integer,32,True,The unique ID of the driver associated with this record,False,False
+8012000,DriverRaceOdd,OddsToWin,integer,32,False,The odds for this record; in American format i.e. +800; -200; etc.,True,True
+8012000,DriverRaceOdd,Created,datetime,,False,The date/time when this race was created (in US Eastern Time),False,False
+8012000,DriverRaceOdd,Updated,datetime,,False,The date and time when this record was last seen from the sportsbook,False,False
+8012000,DriverRaceOdd,IsAvailable,bool,,False,Indicates whether the odd is available for wagering at the related Sportsbook (excludes Consensus),False,False
+8012000,DriverRaceOdd,SportsbookUrl,string,500,False,The URL for sportsbook event,True,False
+8013000,Sportsbook,SportsbookID,int,32,False,The unique ID of the sportsbook,False,False
+8013000,Sportsbook,Name,string,50,False,The name of the sportsbooks,True,True
+8014000,BettingEvent,BettingEventID,int,32,False,The unique ID assocated with the betting event,False,False
+8014000,BettingEvent,Name,string,32,True,The name of this betting event,True,False
+8014000,BettingEvent,Season,int,32,True,The season of this betting event,True,False
+8014000,BettingEvent,BettingEventTypeID,int,32,False,The ID associated with the type of betting event,False,False
+8014000,BettingEvent,BettingEventType,string,32,False,Indicates the type of betting event,False,False
+8014000,BettingEvent,StartDate,datetime,,True,The last day for betting on this event,True,False
+8014000,BettingEvent,Created,datetime,,True,The date/time when this betting event was created (in US Eastern Time),False,False
+8014000,BettingEvent,Updated,datetime,,True,The last updated date of this betting event,True,False
+8014000,BettingEvent,RaceID,int,32,True,The unique ID of the race tied to this event,False,False
+8014000,BettingEvent,BettingMarkets,BettingMarket[],32,True,A list of the possible betting markets within a betting event,False,False
+8015000,BettingMarket,BettingMarketID,int,32,False,The unique ID associated with the betting market,False,False
+8015000,BettingMarket,BettingEventID,int,32,False,The unique ID associated with the betting market within the betting event,False,False
+8015000,BettingMarket,BettingMarketTypeID,int,32,True,The ID that distinguishes the different types of Market Types,False,True
+8015000,BettingMarket,BettingMarketType,string,32,True,The name of the market type within a market (e.g. Race Prop; Driver Future; Race Line; etc.),False,True
+8015000,BettingMarket,BettingBetTypeID,int,32,True,The ID associated with the name of the bet type within a market,False,True
+8015000,BettingMarket,BettingBetType,string,32,True,The name of the bet type within a market (e.g. Tournament Winner; Best Score; etc.),False,True
+8015000,BettingMarket,BettingPeriodTypeID,int,32,True,The BettingPeriodTypeID of this type of market which we can result,False,True
+8015000,BettingMarket,BettingPeriodType,string,32,True,The name of the period type of this market,False,True
+8015000,BettingMarket,Name,string,32,True,The name of this betting market,False,False
+8015000,BettingMarket,DriverID,int,32,True,The unique ID of the driver tied to this market (if applicable),False,True
+8015000,BettingMarket,DriverName,string,32,True,The name of the driver tied to this market (if applicable),True,True
+8015000,BettingMarket,Created,datetime,32,True,The date/time when this betting market was created (in US Eastern Time),False,False
+8015000,BettingMarket,Updated,datetime,32,True,The last updated date of this market,False,False
+8015000,BettingMarket,AvailableSportsbooks,Sportsbook[],32,True,The sportsbooks that have had odds in this market,True,False
+8015000,BettingMarket,AnyBetsAvailable,bool,32,True,Shows if any bets are currently available for betting in this market,False,False
+8015000,BettingMarket,BettingOutcomes,BettingOutcome[],32,True,A list of the possible betting outcomes from each sportsbook in this market,False,False
+8022000,RaceResultBasic,Race,RaceBasic,,True,RaceBasic object (Includes basic information such as RaceID; Day; DateTime; Updated; and Created),False,False
+8022000,RaceResultBasic,DriverRaces,DriverRaceBasic[],,True,StatBasic object (includes basic information on the drivers race performance such as DriveID; Season; Driver's Name; Start and Final positions; Lap information; etc.),False,False
+8016000,BettingOutcome,BettingOutcomeID,int,32,True,The unique ID associated with this specific outcome,False,False
+8016000,BettingOutcome,BettingMarketID,int,32,True,The unique ID associated with the betting market,False,False
+8016000,BettingOutcome,SportsBook,Sportsbook,32,True,The sportsbook offering this outcome for betting,True,False
+8016000,BettingOutcome,BettingOutcomeTypeID,int,32,True,The ID of this specific outcome type,False,True
+8016000,BettingOutcome,BettingOutcomeType,string,32,True,The name of betting outcome type,False,True
+8016000,BettingOutcome,PayoutAmerican,int,32,True,The American odds payout,False,True
+8016000,BettingOutcome,PayoutDecimal,decimal,32,True,The decimal odds payout,True,True
+8016000,BettingOutcome,Value,decimal,32,True,The number associated with the outcome (spread/total/etc),True,True
+8016000,BettingOutcome,Participant,string,32,True,The name of the participant (typically team or player) associated with the outcome. NOTE: This is provided by the sportsbook. In the case of Player odds; we highly recommend using PlayerID as names of players can be inconsistent between sportsbooks.,True,False
+8016000,BettingOutcome,IsAvailable,bool,32,True,Denotes whether or not the betting outcome is currently available,False,False
+8016000,BettingOutcome,IsAlternate,bool,32,True,Denotes whether or not the betting outcome is an alternate line,False,False
+8016000,BettingOutcome,Created,datetime,32,True,The date/time when this betting outcome was created (in US Eastern Time),False,False
+8016000,BettingOutcome,Updated,datetime,32,True,The last updated date of the outcome,True,False
+8016000,BettingOutcome,Unlisted,datetime,32,True,The datetime the outcome was unlisted (no longer available for bets),True,False
+8016000,BettingOutcome,DriverID,int,32,True,The unique ID of the driver tied to this outcome (if applicable),False,True
+8016000,BettingOutcome,SportsbookUrl,string,500,True,The URL for sportsbook event,True,True
+8016000,BettingOutcome,GroupKey,int,32,True,A key to identify outcomes which are related and part of the same offering at a sportsbook (for instance; with Group markets; this key would identify all the options for a particular group of drivers),False,False
+8016000,BettingOutcome,IsInPlayRaceOdd,bool,32,True,Indicates if this outcome is considered in-play/live (was created after the race start date),False,False
+8016000,BettingOutcome,SportsbookMarketID,string,100,True,The market ID on the given sportsbook for deeplinking (when available),False,True
+8016000,BettingOutcome,SportsbookOutcomeID,string,100,True,The outcome ID on the given sportsbook for deeplinking (when available),False,True
+8017000,BettingEntityMetadata,RecordID,integer,32,False,The ID of the record. Unique only within the same entity type (i.e. BettingMarketType Ids overlap with BettingBetType Ids).,False,False
+8017000,BettingEntityMetadata,Name,string,100,False,Denotes the name of the type (e.g. Betting Market Type; Betting Event Type; Betting Period Type),False,False
+8017000,BettingEntityMetadata,Active,bool,32,True,Whether or not this market is currently in use,False,False
+8018000,BettingEntityMetadataCollection,BettingBetTypes,BettingEntityMetadata[],32,True,The list of the bet types that can be found within a market (e.g. Race Winner; Top 3 Finish),False,False
+8018000,BettingEntityMetadataCollection,BettingMarketTypes,BettingEntityMetadata[],32,True,A list of the possible market types within a betting event (e.g. Race Line; Drive Future),False,False
+8018000,BettingEntityMetadataCollection,BettingPeriodTypes,BettingEntityMetadata[],32,True,A list of the possible period types within a betting event (e.g. Race; Truck Series; Cup Series),False,False
+8018000,BettingEntityMetadataCollection,BettingEventTypes,BettingEntityMetadata[],32,True,A list of the possible BettingEventTypes,False,False
+8018000,BettingEntityMetadataCollection,BettingOutcomeTypes,BettingEntityMetadata[],32,True,A list of the possible betting outcomes types (e.g. Yes; No),False,False
