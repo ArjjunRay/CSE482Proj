@@ -2,7 +2,7 @@
   {
     "RaceID": 1002,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Cook Out Clash at Bowman Gray",
     "Day": "2025-02-02T00:00:00",
@@ -24,7 +24,7 @@
   {
     "RaceID": 1003,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Duel 1 at DAYTONA",
     "Day": "2025-02-13T00:00:00",
@@ -46,7 +46,7 @@
   {
     "RaceID": 1004,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Duel 2 at DAYTONA",
     "Day": "2025-02-13T00:00:00",
@@ -68,7 +68,7 @@
   {
     "RaceID": 1076,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Fresh From Florida 250",
     "Day": "2025-02-14T00:00:00",
@@ -90,7 +90,7 @@
   {
     "RaceID": 1043,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "United Rentals 300",
     "Day": "2025-02-15T00:00:00",
@@ -112,7 +112,7 @@
   {
     "RaceID": 1005,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "DAYTONA 500",
     "Day": "2025-02-16T00:00:00",
@@ -134,7 +134,7 @@
   {
     "RaceID": 1077,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Fr8 Racing 208",
     "Day": "2025-02-22T00:00:00",
@@ -156,7 +156,7 @@
   {
     "RaceID": 1044,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Bennett Transportation & Logistics 250",
     "Day": "2025-02-22T00:00:00",
@@ -178,7 +178,7 @@
   {
     "RaceID": 1006,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Ambetter Health 400",
     "Day": "2025-02-23T00:00:00",
@@ -200,7 +200,7 @@
   {
     "RaceID": 1045,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Focused Health 250",
     "Day": "2025-03-01T00:00:00",
@@ -222,7 +222,7 @@
   {
     "RaceID": 1007,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "EchoPark Automotive Grand Prix",
     "Day": "2025-03-02T00:00:00",
@@ -244,7 +244,7 @@
   {
     "RaceID": 1046,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "GOVX 200",
     "Day": "2025-03-08T00:00:00",
@@ -266,7 +266,7 @@
   {
     "RaceID": 1008,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Shriners Children's 500",
     "Day": "2025-03-09T00:00:00",
@@ -288,7 +288,7 @@
   {
     "RaceID": 1078,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Ecosave 200",
     "Day": "2025-03-14T00:00:00",
@@ -310,7 +310,7 @@
   {
     "RaceID": 1047,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "The LiUNA!",
     "Day": "2025-03-15T00:00:00",
@@ -332,7 +332,7 @@
   {
     "RaceID": 1009,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Pennzoil 400 presented by Jiffy Lube",
     "Day": "2025-03-16T00:00:00",
@@ -354,7 +354,7 @@
   {
     "RaceID": 1079,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Baptist Health 200",
     "Day": "2025-03-21T00:00:00",
@@ -376,7 +376,7 @@
   {
     "RaceID": 1048,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Hard Rock Bet 300",
     "Day": "2025-03-22T00:00:00",
@@ -398,7 +398,7 @@
   {
     "RaceID": 1010,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Straight Talk Wireless 400",
     "Day": "2025-03-23T00:00:00",
@@ -420,7 +420,7 @@
   {
     "RaceID": 1080,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Boys and Girls Club of the Blue Ridge 200",
     "Day": "2025-03-28T00:00:00",
@@ -442,7 +442,7 @@
   {
     "RaceID": 1049,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "US Marine Corps 250",
     "Day": "2025-03-29T00:00:00",
@@ -464,7 +464,7 @@
   {
     "RaceID": 1011,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Cook Out 400",
     "Day": "2025-03-30T00:00:00",
@@ -486,7 +486,7 @@
   {
     "RaceID": 1050,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Sport Clips Haircuts VFW Help a Hero 200",
     "Day": "2025-04-05T00:00:00",
@@ -508,7 +508,7 @@
   {
     "RaceID": 1012,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Goodyear 400",
     "Day": "2025-04-06T00:00:00",
@@ -530,7 +530,7 @@
   {
     "RaceID": 1081,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Weather Guard Truck Race",
     "Day": "2025-04-11T00:00:00",
@@ -552,7 +552,7 @@
   {
     "RaceID": 1051,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "SciAps 300",
     "Day": "2025-04-12T00:00:00",
@@ -574,7 +574,7 @@
   {
     "RaceID": 1013,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Food City 500",
     "Day": "2025-04-13T00:00:00",
@@ -596,7 +596,7 @@
   {
     "RaceID": 1082,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Black\u2019s Tire 200",
     "Day": "2025-04-18T00:00:00",
@@ -618,7 +618,7 @@
   {
     "RaceID": 1052,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "North Carolina Education Lottery 250 presented by Black\u2019s Tire",
     "Day": "2025-04-19T00:00:00",
@@ -640,7 +640,7 @@
   {
     "RaceID": 1053,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Ag-Pro 300",
     "Day": "2025-04-26T00:00:00",
@@ -662,7 +662,7 @@
   {
     "RaceID": 1014,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Jack Link's 500",
     "Day": "2025-04-27T00:00:00",
@@ -684,7 +684,7 @@
   {
     "RaceID": 1083,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "SpeedyCash.com 250",
     "Day": "2025-05-02T00:00:00",
@@ -706,7 +706,7 @@
   {
     "RaceID": 1054,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Andy's Frozen Custard 300",
     "Day": "2025-05-03T00:00:00",
@@ -728,7 +728,7 @@
   {
     "RaceID": 1015,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "W\u00fcrth 400 presented by LIQUI MOLY",
     "Day": "2025-05-04T00:00:00",
@@ -750,7 +750,7 @@
   {
     "RaceID": 1084,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Heart of Health Care 200",
     "Day": "2025-05-10T00:00:00",
@@ -772,7 +772,7 @@
   {
     "RaceID": 1016,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "AdventHealth 400",
     "Day": "2025-05-11T00:00:00",
@@ -794,7 +794,7 @@
   {
     "RaceID": 1085,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Window World 250",
     "Day": "2025-05-17T00:00:00",
@@ -816,7 +816,7 @@
   {
     "RaceID": 1017,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "NASCAR All-Star Open",
     "Day": "2025-05-18T00:00:00",
@@ -838,7 +838,7 @@
   {
     "RaceID": 1018,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "NASCAR All-Star Race",
     "Day": "2025-05-18T00:00:00",
@@ -860,7 +860,7 @@
   {
     "RaceID": 1086,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "North Carolina Education Lottery 200",
     "Day": "2025-05-23T00:00:00",
@@ -882,7 +882,7 @@
   {
     "RaceID": 1055,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "BetMGM 300",
     "Day": "2025-05-24T00:00:00",
@@ -904,7 +904,7 @@
   {
     "RaceID": 1019,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Coca-Cola 600",
     "Day": "2025-05-25T00:00:00",
@@ -926,7 +926,7 @@
   {
     "RaceID": 1087,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Rackley Roofing 200",
     "Day": "2025-05-30T00:00:00",
@@ -948,7 +948,7 @@
   {
     "RaceID": 1056,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Tennessee Lottery 250",
     "Day": "2025-05-31T00:00:00",
@@ -970,7 +970,7 @@
   {
     "RaceID": 1020,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Cracker Barrel 400",
     "Day": "2025-06-01T00:00:00",
@@ -992,7 +992,7 @@
   {
     "RaceID": 1088,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "DQS Solutions & Staffing 250 Powered by Precision Vehicle Logistics",
     "Day": "2025-06-07T00:00:00",
@@ -1014,7 +1014,7 @@
   {
     "RaceID": 1021,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "FireKeepers Casino 400",
     "Day": "2025-06-08T00:00:00",
@@ -1036,7 +1036,7 @@
   {
     "RaceID": 1057,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "The Chilango 150",
     "Day": "2025-06-14T00:00:00",
@@ -1058,7 +1058,7 @@
   {
     "RaceID": 1022,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Viva Mexico 250",
     "Day": "2025-06-15T00:00:00",
@@ -1080,7 +1080,7 @@
   {
     "RaceID": 1089,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "MillerTech Battery 200",
     "Day": "2025-06-20T00:00:00",
@@ -1102,7 +1102,7 @@
   {
     "RaceID": 1058,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Explore the Pocono Mountains 250",
     "Day": "2025-06-21T00:00:00",
@@ -1124,7 +1124,7 @@
   {
     "RaceID": 1023,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "The Great American Getaway 400 Presented by VISITPA.COM",
     "Day": "2025-06-22T00:00:00",
@@ -1146,7 +1146,7 @@
   {
     "RaceID": 1059,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Focused Health 250",
     "Day": "2025-06-27T00:00:00",
@@ -1168,7 +1168,7 @@
   {
     "RaceID": 1090,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "LIUNA 150",
     "Day": "2025-06-28T00:00:00",
@@ -1190,7 +1190,7 @@
   {
     "RaceID": 1024,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Quaker State 400 Available at Walmart",
     "Day": "2025-06-28T00:00:00",
@@ -1212,7 +1212,7 @@
   {
     "RaceID": 1060,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "The Loop 110",
     "Day": "2025-07-05T00:00:00",
@@ -1234,7 +1234,7 @@
   {
     "RaceID": 1025,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Grant Park 165",
     "Day": "2025-07-06T00:00:00",
@@ -1256,7 +1256,7 @@
   {
     "RaceID": 1061,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Pit Boss/FoodMaxx 250",
     "Day": "2025-07-12T00:00:00",
@@ -1278,7 +1278,7 @@
   {
     "RaceID": 1026,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Toyota / Save Mart 350",
     "Day": "2025-07-13T00:00:00",
@@ -1300,7 +1300,7 @@
   {
     "RaceID": 1062,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "BetRivers 200",
     "Day": "2025-07-19T00:00:00",
@@ -1322,7 +1322,7 @@
   {
     "RaceID": 1027,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Autotrader EchoPark Automotive 400",
     "Day": "2025-07-20T00:00:00",
@@ -1344,7 +1344,7 @@
   {
     "RaceID": 1091,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "TSport 200 At IRP",
     "Day": "2025-07-25T00:00:00",
@@ -1366,7 +1366,7 @@
   {
     "RaceID": 1063,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Pennzoil 250",
     "Day": "2025-07-26T00:00:00",
@@ -1388,7 +1388,7 @@
   {
     "RaceID": 1028,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Brickyard 400",
     "Day": "2025-07-27T00:00:00",
@@ -1410,7 +1410,7 @@
   {
     "RaceID": 1064,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "HyVee Perks 250",
     "Day": "2025-08-02T00:00:00",
@@ -1432,7 +1432,7 @@
   {
     "RaceID": 1029,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Iowa Corn 350 Powered by Ethanol",
     "Day": "2025-08-03T00:00:00",
@@ -1454,7 +1454,7 @@
   {
     "RaceID": 1092,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Mission 176 at The Glen",
     "Day": "2025-08-08T00:00:00",
@@ -1476,7 +1476,7 @@
   {
     "RaceID": 1065,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Mission 200 At The Glen",
     "Day": "2025-08-09T00:00:00",
@@ -1498,7 +1498,7 @@
   {
     "RaceID": 1030,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Go Bowling at The Glen",
     "Day": "2025-08-10T00:00:00",
@@ -1520,7 +1520,7 @@
   {
     "RaceID": 1093,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "eero 250",
     "Day": "2025-08-15T00:00:00",
@@ -1542,7 +1542,7 @@
   {
     "RaceID": 1031,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Cook Out 400",
     "Day": "2025-08-16T00:00:00",
@@ -1564,7 +1564,7 @@
   {
     "RaceID": 1066,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Wawa 250 Powered by Coca-Cola",
     "Day": "2025-08-22T00:00:00",
@@ -1586,7 +1586,7 @@
   {
     "RaceID": 1032,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Coke Zero Sugar 400",
     "Day": "2025-08-23T00:00:00",
@@ -1608,7 +1608,7 @@
   {
     "RaceID": 1094,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Sober or Slammer 200",
     "Day": "2025-08-30T00:00:00",
@@ -1630,7 +1630,7 @@
   {
     "RaceID": 1067,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Pacific Office Automation 147",
     "Day": "2025-08-30T00:00:00",
@@ -1652,7 +1652,7 @@
   {
     "RaceID": 1033,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Cook Out Southern 500",
     "Day": "2025-08-31T00:00:00",
@@ -1674,7 +1674,7 @@
   {
     "RaceID": 1068,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Nu Way 200 Sauced by Blues Hog",
     "Day": "2025-09-06T00:00:00",
@@ -1696,7 +1696,7 @@
   {
     "RaceID": 1034,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Enjoy Illinois 300",
     "Day": "2025-09-07T00:00:00",
@@ -1718,7 +1718,7 @@
   {
     "RaceID": 1095,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "UNOH 250 presented by Ohio Logistics",
     "Day": "2025-09-11T00:00:00",
@@ -1740,7 +1740,7 @@
   {
     "RaceID": 1069,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Food City 300",
     "Day": "2025-09-12T00:00:00",
@@ -1762,7 +1762,7 @@
   {
     "RaceID": 1035,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Bass Pro Shops Night Race",
     "Day": "2025-09-13T00:00:00",
@@ -1784,7 +1784,7 @@
   {
     "RaceID": 1096,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "EJP 175",
     "Day": "2025-09-20T00:00:00",
@@ -1806,7 +1806,7 @@
   {
     "RaceID": 1036,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Mobil 1 301",
     "Day": "2025-09-21T00:00:00",
@@ -1828,7 +1828,7 @@
   {
     "RaceID": 1070,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Kansas Lottery 300",
     "Day": "2025-09-27T00:00:00",
@@ -1850,7 +1850,7 @@
   {
     "RaceID": 1037,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Hollywood Casino 400 Presented by ESPN BET",
     "Day": "2025-09-28T00:00:00",
@@ -1872,7 +1872,7 @@
   {
     "RaceID": 1097,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Ecosave 250",
     "Day": "2025-10-03T00:00:00",
@@ -1894,7 +1894,7 @@
   {
     "RaceID": 1071,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Blue Cross NC 250",
     "Day": "2025-10-04T00:00:00",
@@ -1916,7 +1916,7 @@
   {
     "RaceID": 1038,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Bank of America ROVAL 400",
     "Day": "2025-10-05T00:00:00",
@@ -1938,7 +1938,7 @@
   {
     "RaceID": 1072,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "Focused Health 302",
     "Day": "2025-10-11T00:00:00",
@@ -1960,7 +1960,7 @@
   {
     "RaceID": 1039,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "South Point 400",
     "Day": "2025-10-12T00:00:00",
@@ -1982,7 +1982,7 @@
   {
     "RaceID": 1098,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Love's RV Stop 225",
     "Day": "2025-10-17T00:00:00",
@@ -2004,7 +2004,7 @@
   {
     "RaceID": 1073,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "United Rentals 250",
     "Day": "2025-10-18T00:00:00",
@@ -2026,7 +2026,7 @@
   {
     "RaceID": 1040,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "YellaWood 500",
     "Day": "2025-10-19T00:00:00",
@@ -2048,7 +2048,7 @@
   {
     "RaceID": 1099,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "Slim Jim 200",
     "Day": "2025-10-24T00:00:00",
@@ -2070,7 +2070,7 @@
   {
     "RaceID": 1074,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "IAA & Ritchie Bros. 250",
     "Day": "2025-10-25T00:00:00",
@@ -2092,7 +2092,7 @@
   {
     "RaceID": 1041,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "Xfinity 500",
     "Day": "2025-10-26T00:00:00",
@@ -2114,7 +2114,7 @@
   {
     "RaceID": 1100,
     "SeriesID": 3,
-    "SeriesName": "NASCAR Camping World Truck",
+    "SeriesName": "NASCAR Craftsman Truck",
     "Season": 2025,
     "Name": "NASCAR CRAFTSMAN Truck Series Championship",
     "Day": "2025-10-31T00:00:00",
@@ -2136,7 +2136,7 @@
   {
     "RaceID": 1075,
     "SeriesID": 2,
-    "SeriesName": "NASCAR Xfinity",
+    "SeriesName": "NASCAR O\u2019Reilly Auto Parts",
     "Season": 2025,
     "Name": "NASCAR Xfinity Series Championship",
     "Day": "2025-11-01T00:00:00",
@@ -2158,7 +2158,7 @@
   {
     "RaceID": 1042,
     "SeriesID": 1,
-    "SeriesName": "Monster Energy NASCAR Cup",
+    "SeriesName": "NASCAR Cup",
     "Season": 2025,
     "Name": "NASCAR Cup Series Championship",
     "Day": "2025-11-02T00:00:00",
