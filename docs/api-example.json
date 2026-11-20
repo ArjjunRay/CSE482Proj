@@ -1,0 +1,30 @@
+{
+  "race_name": "Example 400",
+  "entrants": [
+    {
+      "driver_id": "driver-1",
+      "driver_name": "Driver One",
+      "start_position": 2,
+      "prior_races": 18,
+      "prior_avg_finish": 9.4,
+      "prior_avg_start": 11.2,
+      "prior_top10_rate": 0.61,
+      "recent5_avg_finish": 7.8,
+      "track_prior_races": 3,
+      "track_avg_finish": 8.3
+    },
+    {
+      "driver_id": "driver-2",
+      "driver_name": "Driver Two",
+      "start_position": 12,
+      "prior_races": 22,
+      "prior_avg_finish": 14.1,
+      "prior_avg_start": 13.6,
+      "prior_top10_rate": 0.36,
+      "recent5_avg_finish": 15.2,
+      "track_prior_races": 2,
+      "track_avg_finish": 12.5
+    }
+  ]
+}
+

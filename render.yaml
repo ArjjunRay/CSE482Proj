@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: nascar-performance-lab
+    runtime: docker
+    plan: free
+    healthCheckPath: /healthz
+    envVars:
+      - key: MODEL_PATH
+        value: /app/models/nascar_rank_model.joblib
+      - key: LOG_LEVEL
+        value: INFO
+
